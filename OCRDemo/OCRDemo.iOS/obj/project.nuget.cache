@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNLUJ4gtDd6yQQkGySKYtWzBN1nZnXBD5C4zNqWHktidKlXEGUefyxyXcbf7yowJLr6LMIY47JC1PqC3EVlONA==",
+  "success": true,
+  "projectFilePath": "D:\\2022\\OCRDemo\\OCRDemo\\OCRDemo.iOS\\OCRDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Me\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\timoliver.tocropviewcontroller.xamarin\\2.6.0\\timoliver.tocropviewcontroller.xamarin.2.6.0.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\xamarin.build.download\\0.11.2\\xamarin.build.download.0.11.2.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\xamarin.controls.imagecropper\\1.0.1\\xamarin.controls.imagecropper.1.0.1.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\2022\OCRDemo\OCRDemo\OCRDemo\bin\Debug\netstandard2.0\OCRDemo.deps.json
+D:\2022\OCRDemo\OCRDemo\OCRDemo\bin\Debug\netstandard2.0\OCRDemo.dll
+D:\2022\OCRDemo\OCRDemo\OCRDemo\bin\Debug\netstandard2.0\ref\OCRDemo.dll
+D:\2022\OCRDemo\OCRDemo\OCRDemo\bin\Debug\netstandard2.0\OCRDemo.pdb
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.csproj.AssemblyReference.cache
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.AssemblyInfoInputs.cache
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.AssemblyInfo.cs
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.csproj.CoreCompileInputs.cache
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.dll
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\ref\OCRDemo.dll
+D:\2022\OCRDemo\OCRDemo\OCRDemo\obj\Debug\netstandard2.0\OCRDemo.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OCRDemo.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to image Reader!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Image Source="" x:Name="WithoutCrop" HeightRequest="100" WidthRequest="100"/>
+        <Image Source="" x:Name="WithCrop" HeightRequest="100" WidthRequest="100"/>
+        <Button Text="Get Text" Clicked="Button_Clicked"/>
+        <Label x:Name="labelValue" FontSize="16" TextColor="Red"/>
+
+    </StackLayout>
+
+</ContentPage>
